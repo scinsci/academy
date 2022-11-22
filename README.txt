@@ -7,6 +7,3 @@ THIS IS THE FIRST FILE IN THIS REPO
 i love oliver
 
 
-### second love declaration
-
-I really love oliver
